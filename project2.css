@@ -1,0 +1,40 @@
+body {
+    background-color: gainsboro;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 4rem;
+}
+button {
+   
+    color: #000;
+    font-size: 18px;
+    padding: 5px;
+    width: 10%;
+}
+button:hover {
+    background-color: rgb(226, 8, 8);
+  }
+
+form{
+      border: violet;
+  }
+
+card{
+    display: flex;
+    border: 5px solid whitesmoke;
+    padding: 10px;
+    margin: 10px ;
+    
+ } 
+
+ h1{
+     background-color: lightskyblue;
+     font-weight: bold;
+     text-align: center;
+     border: 10px solid white;
+     height: 55px;
+ }
+
+
+
+ 

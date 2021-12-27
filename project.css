@@ -1,0 +1,19 @@
+.lgn{
+    background-color: cornflowerblue;
+    width: 300px;
+    border: 15px solid lightgray;
+    padding: 50px;
+    margin: 20px;
+    margin-top: 50px;
+    box-shadow: 5px lightyellow;
+    } 
+
+body
+  { 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA-w2h4GE-9t25gvnvVLEcOnaAmyuqTi05Yw&usqp=CAU);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
